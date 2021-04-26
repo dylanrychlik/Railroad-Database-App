@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestResources</string>
+    <string name="mybutton">Spanish1</string>
+    <string name="mybutton2">Spanish2</string>
+    <string name="mybutton01">Send</string>
+    <string name="mybutton02">Dan</string>
+</resources>
